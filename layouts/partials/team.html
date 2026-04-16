@@ -21,8 +21,8 @@
       {{ range (readDir "static/images/gallery") }}
       {{ if findRE "(?i)\\.(jpg|jpeg|png|webp)$" .Name }}
       <div class="gallery-item">
-        <a href="/images/gallery/{{ .Name }}" class="gallery-link" data-mfp-src="/images/gallery/{{ .Name }}">
-          <img src="/images/gallery/{{ .Name }}" alt="Our work" loading="lazy" />
+        <a href="{{ (printf "images/gallery/%s" .Name) | relURL }}" class="gallery-link" data-mfp-src="{{ (printf "images/gallery/%s" .Name) | relURL }}">
+          <img src="{{ (printf "images/gallery/%s" .Name) | relURL }}" alt="Our work" loading="lazy" />
         </a>
       </div>
       {{ end }}
