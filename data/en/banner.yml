@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : ""
   title : "Your Home Deserves a Handyman Who Shows Up"
-  content : "Honest work, fair prices, and repairs done right the first time. Serving homeowners across the Capital Region."
+  content : "Honest work, fair prices, and repairs done right the first time. Serving homeowners across Maryland, DC, and Northern Virginia."
   button:
     enable : true
     label : "Get a Free Estimate"

@@ -9,4 +9,4 @@ social:
     link: "mailto:handymancapitalregion@gmail.com"
 ---
 
-Locally owned and operated in the Capital Region of New York. We help homeowners tackle their repair lists with honest work, fair prices, and zero runaround.
+Locally owned and operated in Maryland, DC, and Northern Virginia. We help homeowners tackle their repair lists with honest work, fair prices, and zero runaround.

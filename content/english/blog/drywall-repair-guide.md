@@ -15,7 +15,7 @@ Drywall repair is not just smearing some compound over a hole and calling it don
 
 For small holes and dings, we clean out the damaged area, apply a setting compound that will not shrink, sand it smooth, and blend the texture to match the surrounding wall. For larger damage like doorknob holes, water damage, or failed seam tape, we cut out the damaged section, install a new piece of drywall or a patch panel, tape and mud the seams with multiple coats, and finish the surface so it is seamless.
 
-The final step is always matching the existing wall texture. A lot of homes in the Capital Region have orange peel, knockdown, or smooth finishes. Getting that texture right is the difference between a professional repair and one that sticks out every time the light hits it.
+The final step is always matching the existing wall texture. A lot of homes in the DMV area have orange peel, knockdown, or smooth finishes. Getting that texture right is the difference between a professional repair and one that sticks out every time the light hits it.
 
 ## Signs Your Drywall Needs Attention
 

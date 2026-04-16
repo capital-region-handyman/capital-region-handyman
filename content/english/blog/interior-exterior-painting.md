@@ -21,7 +21,7 @@ We use quality paint and primer. If you already bought the paint, we are happy t
 
 ## Signs It Is Time to Repaint
 
-Paint does not last forever, and in the Capital Region, our weather puts it through a lot. Here is what to watch for.
+Paint does not last forever, and in the DMV area, our weather puts it through a lot. Here is what to watch for.
 
 **Peeling or flaking on exterior surfaces.** This is more than cosmetic. Once the paint film breaks, moisture gets into the wood underneath, and that leads to rot. Catching it early with a scrape, prime, and repaint saves you from replacing boards later.
 
