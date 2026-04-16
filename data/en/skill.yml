@@ -1,0 +1,8 @@
+############################### Skill ################################
+skill:
+  enable : false
+  title : ""
+  subtitle : ""
+  content : ""
+  image : ""
+  skill_item : []

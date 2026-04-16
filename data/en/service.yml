@@ -1,0 +1,44 @@
+############################### Service ################################
+service:
+  enable : true
+  title : "What We Do"
+  service_item :
+    - name : "General Home Repairs & Maintenance"
+      icon : "ti-home"
+      content : "Squeaky floors, broken railings, sticky doors, damaged trim. If something in your house is not working the way it should, we will track down the problem and fix it. Most repairs are wrapped up in a single visit."
+
+    - name : "Drywall Repair & Patching"
+      icon : "ti-layout"
+      content : "Holes from doorknobs, cracks along seams, water stains, or rough patches from old anchors. We cut out the damage, patch it properly, tape the seams, and finish the surface so you would never know anything was there."
+
+    - name : "Interior & Exterior Painting"
+      icon : "ti-paint-roller"
+      content : "From a single accent wall to a full room refresh, we handle all the prep work, priming, and finish coats with clean lines and zero mess left behind. We also take on exterior touch-ups, trim, doors, and shutters."
+
+    - name : "Furniture Assembly"
+      icon : "ti-package"
+      content : "That flat-pack bookcase or patio furniture set does not have to eat up your entire Saturday. We assemble furniture from IKEA, Wayfair, Amazon, and anywhere else. Correctly built, no leftover mystery hardware."
+
+    - name : "TV Mounting & Wall Fixtures"
+      icon : "ti-desktop"
+      content : "We mount TVs securely on any wall type, run cables cleanly, and install shelving, mirrors, towel bars, and other wall fixtures. Everything level, anchored properly, and exactly where you want it."
+
+    - name : "Door, Lock & Window Installation"
+      icon : "ti-lock"
+      content : "Doors that will not latch, windows that stick, deadbolts that need replacing. We install, adjust, and repair doors, locks, and windows so everything opens, closes, and secures the way it should."
+
+    - name : "Light Plumbing"
+      icon : "ti-brush-alt"
+      content : "Dripping faucets, running toilets, slow drains, and leaky supply lines under the sink. We handle the everyday plumbing problems that waste water and drive you crazy, without the cost of a full plumber service call."
+
+    - name : "Light Electrical Work"
+      icon : "ti-bolt"
+      content : "Swapping out old outlets, installing dimmer switches, replacing light fixtures, or adding USB outlets where you actually need them. We handle the common electrical updates that make your home safer and more functional."
+
+    - name : "Yard Clean-Up & Minor Landscaping"
+      icon : "ti-spray"
+      content : "Overgrown beds, leaf removal, mulching, small hedge trimming, and general yard cleanup. We help get your outdoor spaces looking maintained and presentable without the commitment of a full landscaping crew."
+
+    - name : "Pressure Washing"
+      icon : "ti-shine"
+      content : "Driveways, sidewalks, decks, patios, siding, and fences. A thorough pressure wash removes years of built-up grime, mildew, and stains. It is one of the fastest ways to make the outside of your home look new again."

@@ -1,0 +1,23 @@
+############################### Feature ################################
+feature:
+  enable : true
+  image : "images/about/about-business-man.jpg"
+  image_webp : "images/about/about-business-man.webp"
+  title : "Sound Familiar?"
+  content : "Most homeowners we talk to have a running list of things that need fixing. Maybe it has been growing for months. Life gets busy, weekends fill up, and that one small repair turns into five. That is exactly where we come in."
+  feature_item :
+    - title : "The weekend project that never happens"
+      icon : "ti-calendar"
+      content : "That drywall crack, the sticking door, the ceiling fan still in the box from last November. You bought the supplies but never found the time. We will knock it out in an afternoon."
+
+    - title : "Getting a home ready to sell"
+      icon : "ti-tag"
+      content : "Buyers notice every scuff mark, every dripping faucet, every crooked cabinet door. We handle the entire punch list so your home shows well and you are not leaving money on the table."
+
+    - title : "The small stuff that adds up"
+      icon : "ti-list"
+      content : "A loose towel bar, a running toilet, a light switch that does nothing. None of them are emergencies on their own, but together they nag at you every single day. We fix the whole list in one visit."
+
+    - title : "Rental turnover and property upkeep"
+      icon : "ti-key"
+      content : "Tenants moved out and the place needs patching, painting, and a handful of repairs before the next lease starts. We get rental units back in shape fast so you are not losing income between tenants."

@@ -1,0 +1,5 @@
+############################### Pricing ################################
+pricing:
+  enable : false
+  title : ""
+  pricing_table : []

@@ -1,0 +1,21 @@
+############################### Funfacts ################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    - title : "Years of Experience"
+      icon : "ti-medall"
+      count : "15"
+
+    - title : "Homes Served"
+      icon : "ti-home"
+      count : "800"
+
+    - title : "Repairs Completed"
+      icon : "ti-check-box"
+      count : "2500"
+
+    - title : "Five-Star Reviews"
+      icon : "ti-star"
+      count : "150"

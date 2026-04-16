@@ -1,0 +1,11 @@
+############################### Call to Action ################################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Stop Adding to the List. Start Crossing Things Off."
+  content : "Whether it is one repair or twenty, we will give you an honest estimate and get the work scheduled. No job too small, no runaround, no hassle."
+  button:
+    enable : true
+    label : "Request a Free Estimate"
+    link : "#contact"

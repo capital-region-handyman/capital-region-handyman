@@ -1,0 +1,16 @@
+############################### About ################################
+about:
+  enable : true
+  title : "Why Homeowners Choose Us"
+  about_item :
+    - icon : "ti-alarm-clock"
+      title : "We Actually Show Up"
+      content : "No more waiting around for a contractor who never calls back. We confirm every appointment, arrive when we say we will, and keep you updated if anything changes. Your time matters and we treat it that way."
+
+    - icon : "ti-shield"
+      title : "Honest Pricing, No Surprises"
+      content : "You get a clear estimate before any work begins. No hidden fees tacked on at the end, no pressure to add services you do not need. Just a fair price for solid work, agreed upon up front."
+
+    - icon : "ti-check-box"
+      title : "Done Right the First Time"
+      content : "We take pride in work that holds up. Whether it is a leaky faucet or a full room of drywall repair, we use the right materials and the right techniques so you are not calling someone else in six months."

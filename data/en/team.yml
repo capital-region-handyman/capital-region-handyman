@@ -1,0 +1,5 @@
+############################### Our Work Gallery ################################
+team:
+  enable : true
+  title : "Our Work"
+  team_member : []

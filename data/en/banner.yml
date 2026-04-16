@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : ""
+  title : "Your Home Deserves a Handyman Who Shows Up"
+  content : "Honest work, fair prices, and repairs done right the first time. Serving homeowners across the Capital Region."
+  button:
+    enable : true
+    label : "Get a Free Estimate"
+    link : "#contact"
