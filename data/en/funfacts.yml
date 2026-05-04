@@ -10,8 +10,8 @@ funfacts:
 
     - title : "Homes Served"
       icon : "ti-home"
-      count : "10+"
+      count : "50"
 
     - title : "Repairs Completed"
       icon : "ti-check-box"
-      count : "28+"
+      count : "200"
