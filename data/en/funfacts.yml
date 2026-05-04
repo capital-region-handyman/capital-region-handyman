@@ -6,16 +6,12 @@ funfacts:
   counter_item:
     - title : "Years of Experience"
       icon : "ti-medall"
-      count : "15"
+      count : "5"
 
     - title : "Homes Served"
       icon : "ti-home"
-      count : "800"
+      count : "10+"
 
     - title : "Repairs Completed"
       icon : "ti-check-box"
-      count : "2500"
-
-    - title : "Five-Star Reviews"
-      icon : "ti-star"
-      count : "150"
+      count : "28+"

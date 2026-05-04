@@ -42,3 +42,7 @@ service:
     - name : "Pressure Washing"
       icon : "ti-shine"
       content : "Driveways, sidewalks, decks, patios, siding, and fences. A thorough pressure wash removes years of built-up grime, mildew, and stains. It is one of the fastest ways to make the outside of your home look new again."
+
+    - name : "And more!"
+      icon : "ti-wand"
+      content : "Reach out with your project and let's discuss how we can help."

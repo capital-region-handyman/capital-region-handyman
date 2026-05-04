@@ -1,6 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Capital Region Handyman</title><link>https://capital-region-handyman.github.io/capital-region-handyman/</link><description>Recent content on Capital Region Handyman</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 10 Apr 2026 09:00:00 -0400</lastBuildDate><atom:link href="https://capital-region-handyman.github.io/capital-region-handyman/index.xml" rel="self" type="application/rss+xml"/><item><title>Drywall Repair: When to Fix It and Why DIY Usually Makes It Worse</title><link>https://capital-region-handyman.github.io/capital-region-handyman/english/blog/drywall-repair-guide/</link><pubDate>Fri, 10 Apr 2026 09:00:00 -0400</pubDate><guid>https://capital-region-handyman.github.io/capital-region-handyman/english/blog/drywall-repair-guide/</guid><description>&lt;p&gt;Every house has drywall damage. It is one of the most common repair requests we get, and one of the most common DIY disasters we fix afterward. Whether it is a small nail hole or a crack that keeps coming back no matter how many times you spackle over it, drywall issues are worth getting right the first time.&lt;/p&gt;
-&lt;h2 id="what-drywall-repair-actually-includes"&gt;What Drywall Repair Actually Includes&lt;/h2&gt;
-&lt;p&gt;Drywall repair is not just smearing some compound over a hole and calling it done. Depending on the damage, a proper repair involves several steps.&lt;/p&gt;</description></item><item><title>Interior and Exterior Painting: What a Handyman Paint Job Actually Looks Like</title><link>https://capital-region-handyman.github.io/capital-region-handyman/english/blog/interior-exterior-painting/</link><pubDate>Sun, 05 Apr 2026 09:00:00 -0400</pubDate><guid>https://capital-region-handyman.github.io/capital-region-handyman/english/blog/interior-exterior-painting/</guid><description>&lt;p&gt;Not every painting project requires a full painting crew, scaffolding, and a week-long production. Sometimes you just need one room freshened up, a hallway touched up, or the front door and trim repainted before they peel any further. That is exactly the kind of work we handle.&lt;/p&gt;
-&lt;h2 id="what-our-painting-service-includes"&gt;What Our Painting Service Includes&lt;/h2&gt;
-&lt;p&gt;We cover both interior and exterior painting projects at the scale most homeowners actually need.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interior painting&lt;/strong&gt; includes single rooms, accent walls, hallways, stairwells, ceilings, doors, trim, baseboards, and cabinets. We handle all the prep work, which is where most of the quality comes from. That means filling nail holes, sanding rough spots, caulking gaps between trim and walls, taping edges, and laying drop cloths before any paint goes on.&lt;/p&gt;</description></item><item><title>Capital Region Handyman</title><link>https://capital-region-handyman.github.io/capital-region-handyman/english/author/capital-region-handyman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://capital-region-handyman.github.io/capital-region-handyman/english/author/capital-region-handyman/</guid><description>&lt;p&gt;Locally owned and operated in the Capital Region of New York. We help homeowners tackle their repair lists with honest work, fair prices, and zero runaround.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capital Region Handyman</title>
+    <link>http://localhost:1313/capital-region-handyman/</link>
+    <description>Recent content on Capital Region Handyman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Apr 2026 09:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/capital-region-handyman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drywall Repair: When to Fix It and Why DIY Usually Makes It Worse</title>
+      <link>http://localhost:1313/capital-region-handyman/english/blog/drywall-repair-guide/</link>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/capital-region-handyman/english/blog/drywall-repair-guide/</guid>
+      <description>Every house has drywall damage. It is one of the most common repair requests we get, and one of the most common DIY disasters we fix afterward. Whether it is a small nail hole or a crack that keeps coming back no matter how many times you spackle over it, drywall issues are worth getting right the first time.&#xA;What Drywall Repair Actually Includes Drywall repair is not just smearing some compound over a hole and calling it done.</description>
+    </item>
+    <item>
+      <title>Interior and Exterior Painting: What a Handyman Paint Job Actually Looks Like</title>
+      <link>http://localhost:1313/capital-region-handyman/english/blog/interior-exterior-painting/</link>
+      <pubDate>Sun, 05 Apr 2026 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/capital-region-handyman/english/blog/interior-exterior-painting/</guid>
+      <description>Not every painting project requires a full painting crew, scaffolding, and a week-long production. Sometimes you just need one room freshened up, a hallway touched up, or the front door and trim repainted before they peel any further. That is exactly the kind of work we handle.&#xA;What Our Painting Service Includes We cover both interior and exterior painting projects at the scale most homeowners actually need.&#xA;Interior painting includes single rooms, accent walls, hallways, stairwells, ceilings, doors, trim, baseboards, and cabinets.</description>
+    </item>
+    <item>
+      <title>Capital Region Handyman</title>
+      <link>http://localhost:1313/capital-region-handyman/english/author/capital-region-handyman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/capital-region-handyman/english/author/capital-region-handyman/</guid>
+      <description>Locally owned and operated in Maryland, DC, and Northern Virginia. We help homeowners tackle their repair lists with honest work, fair prices, and zero runaround.</description>
+    </item>
+  </channel>
+</rss>
